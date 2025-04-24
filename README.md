@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 **I'm Freeman TOMA**
 
-<!--
-**Freeman00111/Freeman00111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+content de vous voir ici!
 
-Here are some ideas to get you started:
+Developpeur web former dans le cadre du projet D-CLIC de l'OIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 A propos de moi
+Bienvenue sur ma parie de vie sur internet, je suis un apprentit developpeur j'aspire a faire un carrière dans le developpenment web en travaillant sur le projet à fort impact au Congo et dans le monde entier 
+
+N'hesitez pas à prendere contact avec [moi]-(#) pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de tech.🌟
+
+**Tech Stack :**
+-**Langages** : HTML, CSS, JavaScript,
+-**Framexorks outils** : Taillwind CSS, React
+-**Design & UI/UX** : 
+-**Base de données** :
+--**Versioning** : Git & GitHub
+
+## 📫Me contacter :
+📧 ## E.mail : tomaprincefreeman@gmail.com
